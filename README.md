@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vyhnanskyi
+- 👋 Hi, I’m Ivan Vyhnanskyi
 - 👀 I’m interested in QA
 - 🌱 I’m currently learning Java Script
 - 💞️ I’m looking to collaborate on ...
